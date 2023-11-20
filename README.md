@@ -1,42 +1,17 @@
-# Rune cheat engine 
-Today, i decided to show the public something, well there has been a executor going around called "Netflix" which is just cheat engine source, with the icons changed and the name changed. Using our dev Jayys script he posted on verm. So this dude decided to scam people with this thing executor called "Netflix" using jays stuff and charges people 25$.
+# RUNE CE v1.8.9
+by the rune cheat engine team
 
-### Discord
-https://discord.gg/runesoftware 
+### How it works
+Rune CE works by using memory and the tool injection method en-order to run your desired scripts in its one of a kind enviroment.
 
-### Credits
-- jayy -> Made the lua stuff
-- quiving lua UI and CE bypass stuff
-- Nano -> for fixing it 
-
-
-### the game got taken down what do i do?
-join the discord https://discord.gg/runesoftware we have reuploaded the game file if you wanna publish it
-
-
-### Executor Works for Web and UWP
-- WARNING THIS ONLY WORKS IF THE GAME YOU ARE EXECUTING ON HAS A INVENTORY AND A TOOL IN ITS INVENTORY
-- Download Release and run RUNE_CE.exe (this process will just start CE and give you instructions) 
-  <img src="https://media.discordapp.net/attachments/1160389674880217169/1172198876875333683/image.png?ex=655f7246&is=654cfd46&hm=330f2a30c5a465bdcb374e56ca546dc2d02e75b9f9d573f527a92ffbb9d3321a&=&width=816&height=425"> </a>
-
-
-### Custom lua
-- _G.IY() -> IF YEILD<br> 
-- _G.dex() -> Dex <br>
-- _G.prisonlife() -> PrisonLife Script<br>
-- _G.lt() -- Lumber Tycoon Money Farm<br>
-- _G.CMDY() -- Kohls Admin House<br>
-- _G.autoparry -- Blade Ball Auto Parry<br>
-
-
-
-### Compile Instructions
-- To get it working on the web version it will take leet haxor skill JK just download the CE source
-- Rename the files anything to do with CE and change the file icon
-- change when they set the values 0000000000000000 and 00007fffffffffff and just set it to something random, then when setGbScanOptionsEnabled is called with true set them back to those original values
-- recompile Done EASY thanks <3 quiving for this information
-
-### Warning
-This could get detected later, but suggest running rbxspoofer from my github
-
-With much love from Nano < 3 the owner of runesoftware.cc
+###How to use Rune CE 
+1. Start by download rune ce
+2. Open roblox through the game launcher and not the web ( it works better )
+3. When in the main menu of roblox run ***RUNE_CE.exe***<br />![image](https://github.com/l4tt/rune-cheat-engine/assets/139589950/a2bd8414-927e-4c77-b385-475d290357b6)
+4. If your screen looks like this then join the rune script test place ![image](https://github.com/l4tt/rune-cheat-engine/assets/139589950/78f3b2c3-5205-45fa-a4f3-4417d9bc838b)
+5. Now teleport to the game and make sure it has tools to
+6. Next when you get in game the click enter in the command prompt ![image](https://github.com/l4tt/rune-cheat-engine/assets/139589950/e488c988-c44f-4f9f-b158-b3cd5047e217)
+7. Now click inject and wait until the lua engine says to equip the tool ![image](https://github.com/l4tt/rune-cheat-engine/assets/139589950/b7a2c2fe-59b0-43b3-b22f-9e915560f0f0)
+8. Once you equip your tool you should have the executor on your screen if the game crashes or it does not show you then you did something wrong![image](https://github.com/l4tt/rune-cheat-engine/assets/139589950/35fb5dba-f340-401d-a882-e054899dc925)
+## Documentation
+https://l4tt.github.io/rune-cheat-engine/
